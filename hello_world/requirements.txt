@@ -1,0 +1,2 @@
+strands-agents
+awslabs.aws-documentation-mcp-server
